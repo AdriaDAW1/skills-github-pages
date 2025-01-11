@@ -1,4 +1,7 @@
 ---
-title: Welcome to my blog
+title: Welcome to my blog, Estoy cambiando el título
 ---
+
+
+Qué pasa si escribo aquí?
 
